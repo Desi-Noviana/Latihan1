@@ -1,0 +1,15 @@
+/Users/desinoviana/Projects/Latihan/Latihan/bin/Debug/net6.0/Latihan
+/Users/desinoviana/Projects/Latihan/Latihan/bin/Debug/net6.0/Latihan.deps.json
+/Users/desinoviana/Projects/Latihan/Latihan/bin/Debug/net6.0/Latihan.runtimeconfig.json
+/Users/desinoviana/Projects/Latihan/Latihan/bin/Debug/net6.0/Latihan.dll
+/Users/desinoviana/Projects/Latihan/Latihan/bin/Debug/net6.0/Latihan.pdb
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.csproj.AssemblyReference.cache
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.AssemblyInfoInputs.cache
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.AssemblyInfo.cs
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.csproj.CoreCompileInputs.cache
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.dll
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/refint/Latihan.dll
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.pdb
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/Latihan.genruntimeconfig.cache
+/Users/desinoviana/Projects/Latihan/Latihan/obj/Debug/net6.0/ref/Latihan.dll

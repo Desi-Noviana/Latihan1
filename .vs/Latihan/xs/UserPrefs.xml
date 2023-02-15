@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{21927A32-8A40-4980-9C40-ABFA3224964B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Latihan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Latihan/Program.cs">
+    <Files>
+      <File FileName="Latihan/Program.cs" Line="11" Column="5" />
+      <File FileName="Latihan/Create.cs" Line="10" Column="6" />
+      <File FileName="Latihan/Show.cs" Line="23" Column="52" />
+      <File FileName="Latihan/Login.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Latihan" expanded="True">
+            <Node name="Latihan" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
